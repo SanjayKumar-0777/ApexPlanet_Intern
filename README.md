@@ -122,7 +122,3 @@ This internship is part of a **government-recognized initiative** by **AICTE** a
 - **AICTE & MSME** for supporting skill development.  
 
 --- 
-
-**Note**: Each task folder contains its own `README.md` with detailed explanations.  
-
---- 
